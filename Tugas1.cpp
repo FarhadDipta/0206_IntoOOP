@@ -14,6 +14,10 @@ class Mahasiswa {
         }
 };
 
+class Matakuliah{
+    
+};
+
 int main () {
 
 }
